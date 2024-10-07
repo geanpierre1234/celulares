@@ -1,22 +1,45 @@
 <!-- Footer Start -->
-<footer>
+<footer class="bg-dark text-light pt-4">
     <div class="container">
         <div class="row">
-
-            <div class="col-md-12">
-                
-                <div class="footer-manu">
-                    <ul>
-                        <li><a href="{{ site.baseurl }}/about">Acerca de...</a></li>
-                        <li><a href="{{ site.baseurl }}/contact">Contáctanos</a></li>
-                        <li><a href="{{ site.baseurl }}/ubicacion">Ubicacion</a></li>
-                        <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
-                        <li><a href="{{ site.baseurl }}/terminos">Términos y Condiciones</a></li>
-                    </ul>
-                </div>
-                
+            <div class="col-md-4 mb-3">
+                <h5>Acerca de</h5>
+                <p>Conoce más sobre nuestro sitio e-Commerce y cómo ofrecemos los mejores productos tecnológicos al mejor precio.</p>
             </div>
+            <div class="col-md-4 mb-3">
+                <h5>Enlaces Rápidos</h5>
+                <ul class="list-unstyled">
+                    <li><a href="{{ site.baseurl }}/about" class="text-light">Acerca de...</a></li>
+                    <li><a href="{{ site.baseurl }}/contact" class="text-light">Contáctanos</a></li>
+                    <li><a href="{{ site.baseurl }}/ubicacion" class="text-light">Ubicación</a></li>
+                    <li><a href="{{ site.baseurl }}/blog" class="text-light">Blog</a></li>
+                    <li><a href="{{ site.baseurl }}/terminos" class="text-light">Términos y Condiciones</a></li>
+                </ul>
+            </div>
+            <div class="col-md-4 mb-3">
+                <h5>Contáctanos</h5>
+                <p>Si tienes preguntas, no dudes en <a href="{{ site.baseurl }}/contact" class="text-light">enviar un mensaje</a>.</p>
+                <p>Email: <a href="mailto:info@sitioweb.com" class="text-light">info@sitioweb.com</a></p>
+                <p>Teléfono: <span class="text-light">(01) 234-5678</span></p>
+            </div>
+        </div>
+        <div class="text-center mt-4">
+            <p>&copy; 2024 Sitio e-Commerce. Todos los derechos reservados.</p>
         </div>
     </div>
 </footer>
 <!-- Footer Close -->
+
+<style>
+    footer {
+        background-color: #343a40; /* Fondo oscuro */
+        color: #ffffff; /* Texto claro */
+    }
+    footer a {
+        color: #ffffff; /* Enlaces en blanco */
+        text-decoration: none; /* Sin subrayado */
+    }
+    footer a:hover {
+        text-decoration: underline; /* Subrayado al pasar el mouse */
+    }
+</style>
