@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "PEA2_LEDESMA_CHARLES"
+date:   2024-09-03 20:16:08 -0500
+categories: jekyll update
+---
+
+Esta página es la segunda página de mi portal, enfocada en la venta de celulare.
+
+Jekyll también ofrece un soporte poderoso para fragmentos de código. Aquí te muestro un ejemplo:
+
+{% highlight ruby %}
+# Este es un bloque resaltado en mi post.
+# Aquí puedo incluir código o mensajes importantes sobre mi tienda de celulares.
+
+puts "Bienvenido a nuestra tienda de celulares"
+{% endhighlight %}
+
+Si necesitas más información sobre los productos de [Apple][ref01], puedes visitar su página oficial para conocer los últimos modelos de iPhone. Además, la empresa [Samsung][ref02] ofrece una amplia gama de smartphones con tecnología avanzada.
+
+El portal de [Xiaomi][ref03] tiene teléfonos con una excelente relación calidad-precio y características premium.
+
+Consulta la [documentación de Jekyll][jekyll-docs] para aprender más sobre cómo gestionar y personalizar tu página web enfocada en la venta de celulares. 
+
+[ref01]: https://www.apple.com/
+[ref02]: https://www.samsung.com/
+[ref03]: https://www.mi.com/
+[jekyll-docs]: https://jekyllrb.com/docs/
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

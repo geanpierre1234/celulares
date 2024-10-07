@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "PEA2_LEDESMA_CHARLES"
+date:   2024-09-04 20:16:08 -0500
+categories: jekyll update
+---
+
+Esta página es la primera página de mi portal enfocada en la venta de celularess. Aquí podrás encontrar una gran variedad de smartphones de las mejores marcas, con precios competitivos y ofertas exclusivas para todo tipo de clientess.
+
+### Ofertas del Mes
+
+Descubre nuestras promociones especiales para este mes, con descuentos en marcas líderes como **Apple**, **Samsung**, y **Xiaomi**.
+
+Jekyll también ofrece soporte poderoso para fragmentos de código, algo que puede ser útil para desarrolladores de páginas como esta.
+
+{% highlight ruby %}
+# Este es un bloque de código
+puts "Bienvenido a nuestra tienda de celulares"
+{% endhighlight %}
+
+---
+
+### ¿De qué trata nuestra tienda?
+
+Nuestra tienda de celulares se especializa en ofrecer productos de **calidad** a **precios accesibles**. Nos enfocamos en marcas de renombre, garantizando que cada cliente tenga acceso a lo mejor de la tecnología móvil, sin sacrificar el presupuesto.
+
+**Nuestra idea de negocio** se basa en proporcionar a nuestros clientes no solo teléfonos de alta gama, sino también una experiencia de compra sin complicaciones a través de nuestra plataforma en línea. Buscamos ser tu primera opción al momento de adquirir tu próximo smartphone, con un catálogo actualizado y servicios como envíos rápidos y seguros.
+
+### ¿Qué puedes esperar de nuestra tienda?
+- **Variedad de productos**: Desde los últimos modelos de iPhone hasta opciones más económicas de Xiaomi.
+- **Precios competitivos**: Siempre buscamos ofrecer el mejor precio en el mercado.
+- **Atención al cliente automatizada**: Nuestra plataforma gestiona tus pedidos de manera eficiente y rápida.
+- **Ofertas exclusivas**: Promociones especiales cada mes para clientes recurrentes.
+
+---
+
+Si estás buscando más información sobre productos de [Apple][ref01], visita su página para ver los últimos modelos de iPhone. Además, la empresa [Samsung][ref02] ofrece una amplia gama de celulares con tecnología innovadora.
+
+El portal de [Xiaomi][ref03] tiene teléfonos asequibles y con características premium.
+
+Consulta la [documentación de Jekyll][jekyll-docs] para aprender más sobre cómo personalizar y gestionar tu página web de venta de celulares.
+
+[ref01]: https://www.apple.com/
+[ref02]: https://www.samsung.com/
+[ref03]: https://www.mi.com/
+[jekyll-docs]: https://jekyllrb.com/docs/
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
